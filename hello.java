@@ -2,6 +2,6 @@ class hello
 {
 public static void main(String args[])
 {
-System.out.println("Hellllo Master");
+System.out.println("Hellllo child");
 }
 }
